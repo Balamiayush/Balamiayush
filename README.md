@@ -32,6 +32,7 @@ Hey there! 👋 I'm AAyush Balami
 
 🚀 Let's Connect
 
-📧 Email: ayushbalami85@gmail.com 🌐 Portfolio: [coming soon ]🐦 💼 LinkedIn:https://www.linkedin.com/in/aayush-balami-539233274/
+📧 Email: ayushbalami85@gmail.com 🌐 Portfolio: https://portfolio-xi-pied-71.vercel.app/ 
+🐦 💼 LinkedIn:https://www.linkedin.com/in/aayush-balami-539233274/
 
 ✨ Let's build something amazing together! 🚀
